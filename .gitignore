@@ -129,5 +129,5 @@ Temporary Items
 .idea/misc.xml
 .idea/vcs.xml
 javaservlet.iml
-pom.xml
-src/
+# pom.xml
+# src/
