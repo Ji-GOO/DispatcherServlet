@@ -1,7 +1,7 @@
 # DispatcherServlet
 
 # 동작순서
-1. 요청을 분석함. (Locale, Thema, Multipart 등등)
+1. 요청을 분석함. (Locale, Theme, Multipart 등등)
 2. 요청을 처리할 핸들러를 찾음. (HandlerMapping)
 3. 찾은 핸들러를 실행할 수 있는 핸들러 어댑터를 찾음. (HandlerAdapter)
 4. 찾아낸 핸들러 어댑터를 사용해 핸들러의 응답을 처리함.
